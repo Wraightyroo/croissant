@@ -1,0 +1,17 @@
+body {
+background: #eaf6f6;   
+max-width: 900px;    
+margin: 20px auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+}
